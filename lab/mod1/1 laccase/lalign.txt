@@ -1,0 +1,53 @@
+1GYC   --------------------AIGPAASLVVANAPVSPDGFLRDAIVVNGVFPSPLITGKK
+                           .::: ..: .::  ..:::: :.:....: .:.::: :. 
+B0JDP9 MAVAFIALVSLTLALVRVEASIGPRGTLNIANEVIKPDGFSRSAVLAGGSYPGPLIKGET
+               10        20        30        40        50        60
+
+               50        60        70        80        90       100
+1GYC   GDRFQLNVVDTLTNHTMLKSTSIHWHGFFQAGTNWADGPAFVNQCPIASGHSFLYDFHVP
+       :::::.:::. :.. .:  .:::::::.:  : :::::::.:.::::. ::::::::..:
+B0JDP9 GDRFQINVVNKLADTSMPVDTSIHWHGIFVRGHNWADGPAMVTQCPIVPGHSFLYDFEIP
+               70        80        90       100       110       120
+
+              110       120       130       140       150       160
+1GYC   DQAGTFWYHSHLSTQYCDGLRGPFVVYDPKDPHASRYDVDNESTVITLTDWYHTAARLGP
+       ::::::::::::.::::::::::::::. .:::   ::::.::::.:. ::::. .    
+B0JDP9 DQAGTFWYHSHLGTQYCDGLRGPFVVYSKNDPHKRLYDVDDESTVLTVGDWYHAPSLSLS
+              130       140       150       160       170       180
+
+              170       180       190       200       210       220
+1GYC   RFPLGADATLINGLGRSASTPTAALAVINVQHGKRYRFRLVSISCDPNYTFSIDGHNLTV
+         :   :.::.:::::: . :.. : :.::  :::::.::.. ::: :: :::::: .::
+B0JDP9 GVP-HPDSTLFNGLGRSLNGPASPLYVMNVVKGKRYRIRLINTSCDSNYQFSIDGHAFTV
+               190       200       210       220       230         
+
+              230       240       250       260       270       280
+1GYC   IEVDGINSQPLLVDSIQIFAAQRYSFVLNANQTVGNYWIRANPNFGTVGFAGGINSAILR
+       ::.:: :.::: ::..::::.::::.::::::.::::::::::: :  :::. .::::::
+B0JDP9 IEADGENTQPLQVDQVQIFAGQRYSLVLNANQAVGNYWIRANPNSGDPGFANQMNSAILR
+     240       250       260       270       280       290         
+
+              290       300       310       320       330          
+1GYC   YQGAPVAEPTTTQTTSVIPLIETNLHPLARMPVPGSPTPGGVDKALNLAFNFNGTN--FF
+       :.::  ..::: . ... :: : ::.:: . :.::.: :::.:  .:: : :. ..  : 
+B0JDP9 YKGARNVDPTTPERNATNPLREYNLRPLIKEPAPGKPFPGGADHNINLNFAFDPATVLFT
+     300       310       320       330       340       350         
+
+      340       350       360       370       380       390        
+1GYC   INNASFTPPTVPVLLQILSGAQTAQDLLPAGSVYPLPAHSTIEITLPATALAPGAPHPFH
+        :: .:.:::::::::::::.. :.:: ::::.: .   ...:.:.:: ..:  .:::.:
+B0JDP9 ANNYTFVPPTVPVLLQILSGTRDAHDLAPAGSIYDIKLGDVVEVTMPALVFA--GPHPMH
+     360       370       380       390       400       410         
+
+      400       410       420       430       440       450        
+1GYC   LHGHAFAVVRSAGSTTYNYNDPIFRDVVSTGTPAAGDNVTIRFQTDNPGPWFLHCHIDFH
+       ::::.:::::::::.::::..:. ::::: :   . ::::::: .:: ::::::::::.:
+B0JDP9 LHGHSFAVVRSAGSSTYNYENPVRRDVVSIGDDPT-DNVTIRFVADNAGPWFLHCHIDWH
+       420       430       440       450        460       470      
+
+      460       470       480       490                         
+1GYC   LEAGFAIVFAEDVADVKAANPVPKAWSDLCPIYDGLSEAN----------------Q
+       :. :::.:::: : .. .:::::.::.::::::.. . ..                 
+B0JDP9 LDLGFAVVFAEGVNQTAVANPVPEAWNDLCPIYNSSNPSKLLMGTNAIGRLHAPLKA
+        480       490       500       510       520       530   
+
