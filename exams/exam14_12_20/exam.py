@@ -29,7 +29,7 @@ def nw(seq1, seq2, matrix, gap):
             s = max(d, l ,u)
             F[i][j] = s
             P[i][j] = scores.get(max(d, l ,u))
-    return F,
+    return F, P
 def traceback(F, P, s1, s2):
     i = len(seq2)   # Initialization of variables, best1, best2 will be the final
     j = len(seq1)   # gapped alignments, score is the final score of the alignment
