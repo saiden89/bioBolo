@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/stefano/miniconda3/envs/lab/bin/python"
+    "python.pythonPath": "/home/stefano/miniconda3/envs/lab/bin/python",
+    "python.linting.enabled": true
 }
