@@ -1,0 +1,25 @@
+'''
+v = values array [1...n]
+w = weights array [1...n]
+n = items in room [1...n]
+W = knapsack capacity [int]
+k = knapsack [1...m]
+r = ratio v/w [1...n]
+'''
+
+
+for i in n:
+    compute v/w ratio ant store it in r[i]
+    if knapsack_not_full:
+        add k[i]
+    else:
+        compare lowest_in_knapsack and r[i]
+        if r[i] > lowest in knapsack
+            swap r[i] and lowest_in_knapsack
+
+Computational complexity: O(nm)
+
+
+item 1 value 100 weight 10 1
+item 2 value 100 weight 20 0.5
+item 3 value 100 weight 30 0.33

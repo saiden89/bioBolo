@@ -25,10 +25,10 @@ BLOSUM52 = {'GW': -3.0, 'GV': -4.0, 'GT': -2.0, 'GS': 0.0, 'GR': -3.0, 'GQ': -2.
 def initialize_matrix(sequence1, sequence2, gap_penalty=-2):
     scores_matrix = []
     traceback_matrix = []
-    m = len(sequence1) + 1
-    n = len(sequence2) + 1
-    scores_matrix = [[0] * m for x in range(n)]
-    traceback_matrix = [[0] * m for x in range(n)]
+    n = len(sequence1) + 1
+    m = len(sequence2) + 1
+    scores_matrix = [[0] * n for x in range(m)]
+    traceback_matrix = [[0] * n for x in range(m)]
     for row in range(1, len(scores_matrix)):
         scores_matrix[row][0] = gap_penalty * row
         traceback_matrix[row][0] = 'u'
@@ -40,9 +40,9 @@ def initialize_matrix(sequence1, sequence2, gap_penalty=-2):
 
 def build_matrix(sequence1, sequence2, sub_matrix, gap_penalty=-2):
     scores_matrix, traceback_matrix = initialize_matrix(sequence1, sequence2)
-    n, m = len(sequence2) + 1, len(sequence1) + 1
-    for i in range(1, n):
-        for j in range(1, m):
+    m, n = len(sequence2) + 1, len(sequence1) + 1
+    for i in range(1, m):
+        for j in range(1, n):
             scores = {}
             up = 0
             left = 0
@@ -61,9 +61,9 @@ def build_matrix(sequence1, sequence2, sub_matrix, gap_penalty=-2):
 
 def traceback(sequence1, sequence2):
     scores_matrix, traceback_matrix = build_matrix(sequence1, sequence2, BLOSUM52)
-    n, m = len(sequence2) + 1, len(sequence1) + 1
-    row = n - 1
-    col = m - 1
+    m, n = len(sequence2) + 1, len(sequence1) + 1
+    row = m - 1
+    col = n - 1
     ali1 = ''
     ali2 = ''
     equal = ''

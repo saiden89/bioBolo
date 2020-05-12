@@ -1,0 +1,11 @@
+Message "ramarro arrosto"
+Alphabet: r a m o s t \s
+Lenght = 15
+Frequencies: r = 5
+             a = 3             
+             o = 3
+             m = 1
+             s = 1
+             t = 1
+            \s = 1
+
